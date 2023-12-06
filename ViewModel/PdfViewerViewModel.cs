@@ -5,9 +5,9 @@ namespace Firebase_PdfViewerExample
 {
     internal class PdfViewerViewModel : INotifyPropertyChanged
     {
-        private static string storageBucket = "syncfusion-bee21.appspot.com";
+        private static string storageBucket = "<STORAGE BUCKET NAME>";
 
-        private static string fileName = "PDF_Succinctly.pdf";
+        private static string fileName = "<FILE NAME>";
 
         private Stream? m_pdfDocumentStream;
 
