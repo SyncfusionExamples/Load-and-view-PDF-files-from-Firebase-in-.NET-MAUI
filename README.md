@@ -1,2 +1,2 @@
 # Load-and-view-PDF-files-from-Firebase-in-.NET-MAUI
-This repository contains the example which demonstrates how to access PDF files from the Firebase clous storage and view them using Syncfusion .NET MAUI PDF Viewer.
+This repository contains the example which demonstrates how to access PDF files from the Firebase clous storage and view them using Syncfusion&reg; .NET MAUI PDF Viewer.
